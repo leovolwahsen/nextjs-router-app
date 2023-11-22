@@ -19,7 +19,7 @@ export default async function Home() {
         <Link
           href="/new"
           className="border border-slate-300 text-slate-300 px-2 
-          py-2 rounded hover:bg-slate-700 focus-within:bg-slate-700
+          py-1 rounded hover:bg-slate-700 focus-within:bg-slate-700
           outline-none">New</Link>
       </header>
       <ul className="pl-4">
